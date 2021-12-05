@@ -307,3 +307,68 @@ width: 60%;
     text-decoration: solid;
     color: #f4f4f4;
 }
+/* abput page ends here*/
+
+/* Doctors' page */
+
+
+  
+.doctor-body{
+   
+   
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #301957;
+    margin: 0;
+  padding: 0;
+  font-family:  sans-serif;  
+}
+
+
+
+
+
+.containers .card {
+    position: relative;
+    min-width: 450px;
+    background: rgb(208, 218, 218) ;
+    margin-top: 3px;
+    padding: 15px;
+    display: flex;
+}
+
+.containers .card .imgBx {
+    max-width: 150px ;
+    flex: 0 0 150px;
+    
+    
+}
+
+.containers .card .imgBx img {
+    width: 100%;
+   
+}
+
+.containers .card .imgBx .dr-house-img {
+    padding-top: 19px;
+}
+.containers .card .imgBx .dr-emma-img {
+    padding-top: 22px;
+    width: 104%;
+}
+
+.containers .card .content {
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.containers .card .content p{
+    padding-top: -5px;
+   
+}
+@media (max-width: 991px)
+{
+ .container {
+    flex-direction: column;
+}   
+}
