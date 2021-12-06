@@ -372,3 +372,31 @@ width: 60%;
     flex-direction: column;
 }   
 }
+
+
+
+/* contact us page */
+#contact-forms  {
+    padding: 20x 0;
+}
+#contact-forms h1 {
+    padding-top: 15px;
+    font-size: 30px;
+}
+#contact-forms .form-groups {
+    margin: 20px;
+
+}
+
+#contact-forms label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#contact-forms input,
+#contact-forms textarea {
+
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
