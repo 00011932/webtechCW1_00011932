@@ -12,11 +12,12 @@ on BMI test page, users can calculate their body mass index, to do this I used j
 
 2.images
 
-i used pexels.com images for my website, pexels.com free and open source website. 
+I used pexels.com images for my website, pexels.com free and open source website. 
 
 
 3.Github link
 https://github.com/00011932/webtechCW1_00011932
 
 
-4.website link -->
+4.website link 
+https://00011932.github.io/webtechCW1_00011932/ -->
