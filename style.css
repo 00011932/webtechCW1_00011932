@@ -120,13 +120,14 @@ bg-primary {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 560px;
+    height: 500px;
 }
 
 #showcase .showcase-content {
     text-align: center;
-    color: rgb(231, 231, 231);
+    color: rgb(247, 247, 247);
     padding-top: 170px ;
+
 
 }
 #showcase h1 {
@@ -134,7 +135,7 @@ bg-primary {
 }
 #showcase p {
     padding-bottom: 15px;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 
