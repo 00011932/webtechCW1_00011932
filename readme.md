@@ -1,5 +1,5 @@
 # webtechCW1_00011932
-<!-- 1.introduction
+1.introduction
 
 This is a Hospital website.
 on this website, users can get information about the hospital and the doctors who work there. Users may leave their suggestions and complaints on the website.
@@ -23,4 +23,4 @@ https://github.com/00011932/webtechCW1_00011932
 
 
 
- -->
+
