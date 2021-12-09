@@ -4,25 +4,28 @@ window.onload = () => {
 	
 	button.addEventListener("click", BMICALCULATOR);
 };
-
+// main function to create bmi calculator
 function BMICALCULATOR() {
 
-
+	// take height value and parse to int
 	let height = parseInt(document
 			.querySelector("#height").value);
 
-	
+	// take weight value and parse to int
 	let weight = parseInt(document
 			.querySelector("#weight").value);
 
 	let result = document.querySelector("#result");
-
+		
+	// when user does not enter height or wrong input
 	if (height === "" || isNaN(height))
 		result.innerHTML = "Height did not entered!";
 
+	// when user does not enter weight or wrong input
 	else if (weight === "" || isNaN(weight))
 		result.innerHTML = "Weight did not entered";
 	else {
+		// inputs are given successfully and result will appear 
 
 		let bmi = (weight / ((height * height)
 							/ 10000)).toFixed(2);
